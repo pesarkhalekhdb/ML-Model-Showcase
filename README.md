@@ -9,7 +9,7 @@ This repository aims to provide a platform for sharing and demonstrating machine
 
 ## Contents
 
-The repository is structured as follows:
+ repository is structured as follows:
 
 - `models/`: This directory contains trained models that have been developed. Each model is stored in a separate subdirectory and includes the model weights, relevant files, and additional information.
 - `deployments/`: Here, you can find example code and instructions for deploying the models in various environments, such as local machines or cloud platforms. The subdirectories provide step-by-step guidance for setting up and running the models.
